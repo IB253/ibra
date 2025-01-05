@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\data\\produitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\data\\produitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\controllers\\produitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\views\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\views\\produits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\views\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\views\\produits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\views\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\views\\produits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|c:\\users\\ibdji\\onedrive\\bureau\\final\\final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{469FF39E-D02E-4575-B5D6-1FF38DC9A554}|final\\final.csproj|solutionrelative:final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Details.cshtml",
+              "RelativeDocumentMoniker": "final\\Views\\Produits\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Details.cshtml",
+              "RelativeToolTip": "final\\Views\\Produits\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T00:12:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Create.cshtml",
+              "RelativeDocumentMoniker": "final\\Views\\Produits\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Create.cshtml",
+              "RelativeToolTip": "final\\Views\\Produits\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:59:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Index.cshtml",
+              "RelativeDocumentMoniker": "final\\Views\\Produits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Views\\Produits\\Index.cshtml",
+              "RelativeToolTip": "final\\Views\\Produits\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:43:51.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Controllers\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "final\\Controllers\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Controllers\\ProduitsController.cs",
+              "RelativeToolTip": "final\\Controllers\\ProduitsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:28:45.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Program.cs",
+              "RelativeDocumentMoniker": "final\\Program.cs",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Program.cs",
+              "RelativeToolTip": "final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:20:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\appsettings.json",
+              "RelativeDocumentMoniker": "final\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\appsettings.json",
+              "RelativeToolTip": "final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T23:07:50.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduitContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\data\\ProduitContext.cs",
+              "RelativeDocumentMoniker": "final\\data\\ProduitContext.cs",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\data\\ProduitContext.cs",
+              "RelativeToolTip": "final\\data\\ProduitContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:42:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "final.csproj",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\final.csproj",
+              "RelativeDocumentMoniker": "final\\final.csproj",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\final.csproj",
+              "RelativeToolTip": "final\\final.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T22:42:09.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "final\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\ibdji\\OneDrive\\Bureau\\final\\final\\Models\\Produit.cs",
+              "RelativeToolTip": "final\\Models\\Produit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:38:19.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
